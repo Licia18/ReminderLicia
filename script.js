@@ -6,7 +6,7 @@ const formInputId = document.querySelector(".formId");
 let list = [
   // ["Steam","Miracle","1odfi56789"],
   // ["Facebook","amir@google.com","QpAd4321"],
-  // ["Twitter","amir98","12asdaf2222"]
+  // ["Twitter","amir98","12asdaf2222"],
 ]
 
 const idList = document.querySelector(".tabel-user");
